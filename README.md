@@ -26,7 +26,7 @@
   ```
   java Calculadora
   ```
-### Ajuda:
+# Ajuda:
 Para verificar se você tem a JDK instalada execute o seguinte comando no prompt (pesquise prompt na barra de pesquisa do windows)
   ```
   java -version
@@ -41,6 +41,12 @@ Para verificar se você tem a JDK instalada execute o seguinte comando no prompt
 https://www.devmedia.com.br/instalacao-e-configuracao-do-pacote-java-jdk/23749
 ## IDE Recomendada:
 IntelliJ Community <a href="https://www.jetbrains.com/idea/download/other.html">baixe aqui.</a>
+
+# Desenvolvedor
+
+<a href="https://www.linkedin.com/in/inacio-fabricio-carvalho/"><img src="https://media.licdn.com/dms/image/D4D03AQE8bq-qVWrQtg/profile-displayphoto-shrink_800_800/0/1704545822952?e=1709769600&v=beta&t=qw7rnp3jfPKBzyxy6M4NBcRwII-7xTux7w7WtYOn53Y" alt="Foto do Fabricio Carvalho" width="115"/></a> |
+|:-:
+<a href="https://www.linkedin.com/in/inacio-fabricio-carvalho/">Fabricio Carvalho</a> |
   
 
   
